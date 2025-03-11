@@ -1,4 +1,4 @@
-# CROP-RECOMMENDATIONS-BASED-ON-SOIL-HEALTH-AND-NUTRIENT-PROFILES-
+# CROP-RECOMMENDATIONS-BASED-ON-SOIL-HEALTH-AND-NUTRIENT-PROFILES
 
 The Crop Recommendation System uses machine learning models (Random Forest, KNN, HistGB) to suggest optimal crops based on soil health parameters like N, P, K, pH, temperature, humidity, and rainfall. It provides data-driven insights to help farmers maximize yield and maintain soil health. The system features a user-friendly interface for easy access and interpretation. Future enhancements include real-time weather integration and mobile application development for precision agriculture.
 
@@ -27,7 +27,9 @@ The Crop Recommendation System uses machine learning models (Random Forest, KNN,
 5. Input Data & Get Predictions
 
 ## System Architecture
-![WhatsApp Image 2025-03-01 at 23 05 00_1bbc72a0](https://github.com/user-attachments/assets/1175977d-30e0-4ca6-aa82-714a9ff25ddc)
+
+
+![1](https://github.com/user-attachments/assets/c32396f8-4288-4b5e-ac88-6b2146b5aad1)
 
 
 ## Program:
