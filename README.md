@@ -113,7 +113,19 @@ joblib.dump(ensemble_model, 'model_crops.pkl')
 ## Output:
 CROP-RECOMMENDATIONS-BASED-ON-SOIL-HEALTH-AND-NUTRIENT-PROFILES
 
-![WhatsApp Image 2025-03-01 at 00 23 02_806631c8](https://github.com/user-attachments/assets/cc4200e9-4912-4e70-bd31-6f4951abe4c3)
+### HOME PAGE :
+
+![2](https://github.com/user-attachments/assets/853d8d42-f45c-4799-a9c4-9da0a4ac43e4)
+
+### OUTPUT 1 :
+
+![3](https://github.com/user-attachments/assets/cf76c0cb-817c-4864-b5e1-22c27b179acc)
+
+### OUTPUT 2  :
+
+![4](https://github.com/user-attachments/assets/b3601f4c-cd91-4e20-a420-d212d58b5ac7)
+
+
 
 ## Result:
 1.  The system provides personalized crop suggestions by analyzing soil health and environmental factors, ensuring higher yield and efficient resource utilization.
